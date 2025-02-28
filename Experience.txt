@@ -1,0 +1,91 @@
+Day 1
+
+Debugging my flutter project (Bloggy),it takes almost 3 hours, which was also a simple fullstack project which retrieves 
+information from the spreadsheet and displayed in the app UI in the form of BlogCard. then started to build the actual main project,
+unexpectedly ended the day with major build error.
+
+quick review--
+
+--Solve the issues in the Flutter app (Bloggy) and finally finish the app
+
+--started the tutorial of making the project of AI-PDF-NOTES-TAKER in 11am
+
+--configure the backend connection and authentication
+for the project
+
+--while configuring the backend, srw build error which was the result of version compatibility, 
+Clerk and next.js version was mismatch 
+
+--totally ended up thiz day with a major build error 
+
+
+
+Day 2 
+
+with a full of positive energy, tried to shortout the major build error, but i realise that it wont wont work,
+so i delete the existing project and build the project again with latest configuration and change the REACT and 
+REACT DOM verison to (REACT: "18" and REACT DOM:"18") and run the command npm install., this totally saves me, 
+then i have sarted to build this project from the scratch. 
+
+quick review--
+
+--facing the major error that makes me to delete the entire project file
+
+-- started from the scratch, and connect the convex db and clerk authentication, 
+
+-- call both signIN & signUP page and customize it
+
+-- ensured that all registered user data's are stored in the DB. 
+
+--created dashboard screen (header, sidebar) pages
+
+--created table for store the uploaded pdf files and in the DB (it should generate the pdf id, url and saves it in the DB)
+
+--want to continue in 54.44 at DAY 3
+
+
+finished upto duration of 1.30.00 hours in the tutorial video in the end of day 2
+
+
+Day 3
+
+spent for the SEMS project
+
+Day 4
+
+spent for the SEMS project
+
+Day 5
+
+for installing langchain
+npm i @langchain/community @langchain/core pdf-parse
+
+for viewing the splitted text from the document
+->run the project->localhost/api/pdf-loader
+
+npm i axios - http client library used for fetch data
+
+install google generative api for embed the model
+npm i @langchain/google-genai @langchain/core @google/generative-ai
+
+
+Day - 6
+
+install tiptap editor
+
+npm install @tiptap/react @tiptap/pm @tiptap/starter-kit
+
+Stopped at 2.35
+
+
+Day - 7
+
+completed upto  hour 3:00:00
+
+completed upto chapter 15 till 4pm
+
+3:15:00 want to play
+
+3:21:00
+
+3:58:00
